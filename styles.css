@@ -36,3 +36,13 @@ input {
 img {
 	max-width: 300px;
 }
+
+.profile-buttons{
+	background-color: #F9E900; /*middle-yellow*/
+	border: none;
+	color: black;
+	text-align: center;
+	padding: 15px 25px;
+	display: inline-block;
+	font-size: 14px;
+}
