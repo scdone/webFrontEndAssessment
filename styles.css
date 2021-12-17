@@ -1,14 +1,14 @@
 body {
-  background: #ddd;
+  background: #EEF0F2; /*"cultured"*/
   margin: 1rem;
   padding: 1rem;
-  max-width: 500px;
+  max-width: 600px;
   margin: 2rem auto;
   font-family: "Open Sans", sans-serif;
 }
 
 nav {
-	border-bottom: 2px solid orange;
+	border-bottom: 4px solid #F18F01; /*carrot orange*/
 }
 
 ol {
@@ -21,11 +21,11 @@ ol {
 }
 
 a {
-	color: orange;
+	color: black;
 }
 
 a:visited {
-	color: crimson;
+	color: #094D92; /*Yale blue*/
 }
 
 
@@ -34,10 +34,10 @@ input {
 }
 
 img {
-	max-width: 300px;
+	max-width: 400px;
 }
 
-.profile-buttons{
+button {
 	background-color: #F9E900; /*middle-yellow*/
 	border: none;
 	color: black;
@@ -46,3 +46,4 @@ img {
 	display: inline-block;
 	font-size: 14px;
 }
+
